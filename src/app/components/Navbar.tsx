@@ -10,7 +10,7 @@ const Navbar = () => {
      
      
       <div className='text-white'>
-        <h1>logo</h1>
+        <h1 className='text-5xl'>logo</h1>
         {/* <Image src={image} width={191} height={34} alt='logo' ></Image> */}
       </div>
 
